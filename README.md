@@ -1,3 +1,3 @@
-# api
+# arcade-api
 
 a [Sails](http://sailsjs.org) application

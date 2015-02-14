@@ -1,7 +1,7 @@
 /**
  * ArtistController
  *
- * @description :: Server-side logic for managing artists
+ * @description :: Server-side logic for managing Artists
  * @help        :: See http://links.sailsjs.org/docs/controllers
  */
 
