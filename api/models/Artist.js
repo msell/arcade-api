@@ -12,9 +12,15 @@ module.exports = {
           type: 'string',
           required: true
       },
+      songCount:{
+          type:'number'
+      },
       songs:{
           collection: 'song',
           via: 'artist'
+      },
+      numberOfSongs: function(){
+          return songs.length;
       }
   }
 };
